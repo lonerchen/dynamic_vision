@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kGzinucqUOVrzxpzRkMsgBMIFB" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="30" key="CommitChangelistDialog2" timestamp="1605341891082">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="314" y="30" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605341891082" />
+  </component>
+</project>
